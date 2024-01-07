@@ -1,3 +1,5 @@
+
+# Django Job Web Application
 Developed a Python Django web application for streamlined job applications. The platform simplifies the job
 search process by enabling users to effortlessly browse, apply, and manage job listings. Leveraging Django’s
 robust framework, the app ensures a user-friendly interface, secure authentication, and seamless
